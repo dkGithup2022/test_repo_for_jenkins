@@ -29,7 +29,9 @@
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
+        <sonar.projectKey>demoapp-project-pr</sonar.projectKey>
     </properties>
+
 
 
     <build>
