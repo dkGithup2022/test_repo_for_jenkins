@@ -32,8 +32,6 @@
         <sonar.projectKey>demoapp-project-pr</sonar.projectKey>
     </properties>
 
-
-
     <build>
         <plugins>
             <plugin>
